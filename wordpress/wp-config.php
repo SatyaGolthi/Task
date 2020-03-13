@@ -17,7 +17,7 @@
  *
  * @package WordPress
  */
-
+//jkhjgjhg//
 //hsgfdhfs//
 
 // ** MySQL settings - You can get this info from your web host ** //
